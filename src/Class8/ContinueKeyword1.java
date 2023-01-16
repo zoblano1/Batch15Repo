@@ -5,11 +5,10 @@ public class ContinueKeyword1 {
 
         for (int i = 0; i < 10; i++){
     if (i%3==0) {
-        continue;
-    } else {
+        continue;}
             System.out.println(i);
 
     }
         }
     }
-}
+
